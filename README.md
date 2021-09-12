@@ -35,8 +35,19 @@
 * https://rafaeldossantos.net
 
 ### GitHub
+* https://github.com/hgmauri
+* https://github.com/davidfowl
+* https://github.com/benaadams
+* https://github.com/jbogard
+* https://github.com/rafaelfgx
+* https://github.com/jasontaylordev
+* https://github.com/dotnet-architecture
+* https://github.com/bregman-arie
+
+#### Projetos referências do GitHub
 
 ### Twitter
+* https://twitter.com/hgmauri
 * https://twitter.com/nick_craver
 * https://twitter.com/davidfowl
 * https://twitter.com/badtux_
