@@ -1,13 +1,16 @@
 # referencias-estudos-dotnet-azure
 
+Ao aprender .NET, existem sites referências que é preciso conhecer para ficar sempre atuaizado com as melhores práticas e novovidades da linguage. 
+Esta lista será constantemente atualizada, e você também pode contribuir.
+
 ### Blogs em Inglês
-* http://blog.cwa.me.uk
-* http://dailydotnettips.com
-* https://dotnetcoretutorials.com
-* http://dotnetcurry.com
-* https://anthonygiretti.com
-* https://builtwithdot.net
-* https://c-sharpcorner.com
+* [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [.NET Core Tutorials](https://dotnetcoretutorials.com) - .NET, C#, Azure, Arquitetura de Software
+* [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio, Arquitetura de Software
+* [Anthony Giretti's](https://anthonygiretti.com) - .NET, C#, Novidades Microsoft
+* [https://builtwithdot.net](https://builtwithdot.net) - Exemplos código .NET, Templates, C#
+* [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos, Exeplos de códigos
 * https://devblogs.microsoft.com/dotnet
 * https://developer.okta.com/blog
 * https://discoverdot.net
@@ -19,20 +22,23 @@
 
 ### Blogs em Português
 * http://macoratti.net
-* https://www.brunobrito.net.br
+* https://brunobrito.net.br
 * https://carloscds.net
 * https://devmedia.com.br/artigos/dotnet
 * https://docs.microsoft.com/pt-br/dotnet/core
 * https://eximiaco.tech/pt/blog
+* https://hgmauri.medium.com
 * https://gago.io/dotnet
 * https://imasters.com.br/dotnet
-* https://medium.com/alexandre.malavasi
-* https://medium.com/fernando.abreu
-* https://medium.com/gbbigardi
-* https://medium.com/luisdeolme
-* https://medium.com/renato.groffe
+* https://luisdev.com.br
+* https://medium.com/@alexandre.malavasi
+* https://medium.com/@marraia
+* https://medium.com/@gbbigardi
+* https://medium.com/@luisdeolme
+* https://renatogroffe.medium.com
 * https://rafaelcruz.azurewebsites.net
 * https://rafaeldossantos.net
+* https://andresecco.com.br
 
 ### GitHub
 * https://github.com/hgmauri
@@ -45,6 +51,15 @@
 * https://github.com/bregman-arie
 
 #### Projetos referências do GitHub
+* https://github.com/dotnet-architecture/eShopOnContainers
+* https://github.com/aspnetboilerplate/aspnetboilerplate
+* https://github.com/rafaelfgx/Architecture
+* https://github.com/ardalis/CleanArchitecture
+* https://github.com/jasontaylordev/CleanArchitecture
+* https://github.com/EduardoPires/EquinoxProject
+* https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
+* https://github.com/hgmauri/elasticsearch-with-nest
+* https://github.com/phongnguyend/Practical.CleanArchitecture
 
 ### Twitter
 * https://twitter.com/hgmauri
@@ -79,6 +94,10 @@
 * [Luiz Carlos Faria](https://www.youtube.com/user/luizcarlosfaria)
 * [Ramon Durães](https://www.youtube.com/user/ramonduraes)
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
+* [FullCycle](https://www.youtube.com/c/FullCycle)
+* [Luis Dev](https://www.youtube.com/c/luisdev)
+* [Henrique Mauri](https://www.youtube.com/c/HenriqueMauri)
+* [André Secco](https://www.youtube.com/c/AndreSecco)
 
 ### Telegram
 * https://t.me/arquiteturadotnet
@@ -88,6 +107,8 @@
 * https://t.me/dotnetbr
 * https://t.me/microservicesbr
 * https://t.me/kubernetesbr
+* https://t.me/elasticsearchbrasil
+* https://t.me/apibuilders
 
 ### Cursos Pagos
 * https://academiadotnet.com.br
