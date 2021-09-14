@@ -1,4 +1,4 @@
-# referencias-estudos-dotnet-azure
+# Referências para desenvolvedores dotnet
 
 Ao aprender .NET, existem sites referências que é preciso conhecer para ficar sempre atuaizado com as melhores práticas e novovidades da linguage. 
 Esta lista será constantemente atualizada, e você também pode contribuir.
