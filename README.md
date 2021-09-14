@@ -1,6 +1,6 @@
 # Referências para desenvolvedores dotnet
 
-Ao aprender .NET, existem sites referências que é preciso conhecer para ficar sempre atuaizado com as melhores práticas e novovidades da linguage. 
+Ao aprender .NET, existem sites referências que é preciso conhecer para ficar sempre atualizado com as melhores práticas e novidades da plataforma. 
 Esta lista será constantemente atualizada, e você também pode contribuir.
 
 ### Blogs em Inglês
@@ -20,6 +20,11 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure, Arquitetura de Software
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure, Arquitetura de Software
 * [The Cloud Blog](https://thecloudblog.net) - .NET e Azure
+* [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
 
 ### Blogs em Português
 * http://macoratti.net
@@ -42,6 +47,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://andresecco.com.br
 * https://balta.io/blog
 * https://fullcycle.com.br
+* https://docs.microsoft.com/pt-br/learn/
 
 ### GitHub
 * https://github.com/hgmauri
