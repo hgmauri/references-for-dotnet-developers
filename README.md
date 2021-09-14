@@ -47,6 +47,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://andresecco.com.br
 * https://balta.io/blog
 * https://fullcycle.com.br
+* https://tiagotartari.net
 * https://docs.microsoft.com/pt-br/learn/
 
 ### GitHub
@@ -73,6 +74,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/thangchung/clean-code-dotnet
 * https://github.com/Dotnet-Boxed/Templates
 * https://github.com/asadsahi/AspNetCoreSpa
+* https://github.com/hgmauri/elasticsearch-with-nest
+* https://github.com/hgmauri/sample-log-monitoring
 
 ### Twitter
 * https://twitter.com/hgmauri
@@ -88,6 +91,9 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://twitter.com/fabiohara
 * https://twitter.com/juarezjunior
 * https://twitter.com/renatogroff
+* https://twitter.com/JamesNK
+* https://twitter.com/jorgemaia
+* https://twitter.com/eximiaco
 
 ### Youtube
 * [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)
@@ -127,6 +133,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://t.me/kubernetesbr
 * https://t.me/elasticsearchbrasil
 * https://t.me/apibuilders
+* https://t.me/redisbrasil
 
 ### Cursos Pagos
 * https://academiadotnet.com.br
@@ -137,7 +144,9 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://desenvolvedor.io
 * https://pluralsight.com
 * https://udemy.com
-* https://www.schoolofnet.com
+* https://schoolofnet.com
+* https://devmedia.com.br
+* https://powertuning.com.br
 
 ### Eventos Presenciais
 * https://interopsummit.com.br
