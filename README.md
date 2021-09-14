@@ -127,6 +127,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Lambda3](https://www.youtube.com/user/Lambda3TV)
 * [Luis Dev](https://www.youtube.com/c/luisdev)
 * [Luiz Carlos Faria](https://www.youtube.com/user/luizcarlosfaria)
+* [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
 * [Ramon Durães](https://www.youtube.com/user/ramonduraes)
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
 * [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
