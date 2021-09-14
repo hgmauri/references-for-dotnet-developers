@@ -56,7 +56,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 
 
 ### GitHub
-* https://github.com/davidfowl
 * https://github.com/benaadams
 * https://github.com/bregman-arie
 * https://github.com/davidfowl
