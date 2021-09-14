@@ -5,26 +5,29 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 
 ### Blogs em Inglês
 * [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
-* [.NET Core Tutorials](https://dotnetcoretutorials.com) - .NET, C#, Azure, Arquitetura de Software
+* [.NET Core Tutorials](https://dotnetcoretutorials.com) - .NET, C#, Azure e Arquitetura de Software
 * [.NET Developer Links](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
-* [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
-* [Anthony Giretti's](https://anthonygiretti.com) - .NET, C#, Novidades Microsoft
-* [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates, C#
-* [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos, Exeplos de códigos
+* [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Anthony Giretti's](https://anthonygiretti.com) - .NET, C# e Novidades Microsoft
+* [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
+* [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
 * [Code Project](https://codeproject.com) - .NET, C# e Exemplos de códigos
-* [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure, Arquitetura de Software
-* [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
-* [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure e Arquitetura de Software
+* [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
-* [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio, Arquitetura de Software
-* [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure, Arquitetura de Software
+* [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
+* [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure e Arquitetura de Software
 * [Okta Developer](https://developer.okta.com/blog) - .NET e C#
-* [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
-* [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
-* [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [The Cloud Blog](https://thecloudblog.net) - .NET e Azure
-* [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
+* [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
+* [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software,
+* [Andrew Lock blog](https://andrewlock.net/) - .NET, C#, Azure e Arquitetura de Software
+* [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 
 ### Blogs em Português
 * http://macoratti.net
@@ -49,8 +52,11 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://rafaeldossantos.net
 * https://renatogroffe.medium.com
 * https://tiagotartari.net
+* https://www.ralms.net/
+
 
 ### GitHub
+* https://github.com/davidfowl
 * https://github.com/benaadams
 * https://github.com/bregman-arie
 * https://github.com/davidfowl
@@ -125,6 +131,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Ramon Durães](https://www.youtube.com/user/ramonduraes)
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
 * [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
+* [Tim Corey](https://www.youtube.com/user/IAmTimCorey)
 
 ### Telegram
 * https://t.me/apibuilders
