@@ -85,7 +85,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/phongnguyend/Practical.CleanArchitecture
 * https://github.com/rafaelfgx/Architecture
 * https://github.com/thangchung/clean-code-dotnet
-
+* https://github.com/walter-lopes/Aloha
+* 
 ### Twitter
 * https://twitter.com/ardalis
 * https://twitter.com/badtux_
