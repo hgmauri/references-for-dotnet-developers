@@ -9,6 +9,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [.NET Developer Links](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
 * [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C#, Novidades Microsoft
+* [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates, C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos, Exeplos de códigos
 * [Code Project](https://codeproject.com) - .NET, C# e Exemplos de códigos
 * [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure, Arquitetura de Software
@@ -16,7 +17,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio, Arquitetura de Software
-* [https://builtwithdot.net](https://builtwithdot.net) - Exemplos código .NET, Templates, C#
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure, Arquitetura de Software
 * [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software, Novidades Microsoft
