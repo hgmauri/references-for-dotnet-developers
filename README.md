@@ -11,14 +11,15 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C#, Novidades Microsoft
 * [https://builtwithdot.net](https://builtwithdot.net) - Exemplos código .NET, Templates, C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos, Exeplos de códigos
-* https://devblogs.microsoft.com/dotnet
-* https://developer.okta.com/blog
-* https://discoverdot.net
-* https://links.danrigby.com
-* https://thomaslevesque.com
-* https://codeproject.com
-* https://codewithmukesh.com/blog
-* https://infoq.com/net-core/articles
+* [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
+* [Okta Developer](https://developer.okta.com/blog) - .NET e C#
+* [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
+* [.NET Developer Links](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
+* [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
+* [Code Project](https://codeproject.com) - .NET, C# e Exemplos de códigos
+* [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure, Arquitetura de Software
+* [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure, Arquitetura de Software
+* [The Cloud Blog](https://thecloudblog.net) - .NET e Azure
 
 ### Blogs em Português
 * http://macoratti.net
@@ -39,6 +40,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://rafaelcruz.azurewebsites.net
 * https://rafaeldossantos.net
 * https://andresecco.com.br
+* https://balta.io/blog
+* https://fullcycle.com.br
 
 ### GitHub
 * https://github.com/hgmauri
@@ -49,6 +52,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/jasontaylordev
 * https://github.com/dotnet-architecture
 * https://github.com/bregman-arie
+* https://github.com/renatogroffe
 
 #### Projetos referências do GitHub
 * https://github.com/dotnet-architecture/eShopOnContainers
@@ -60,6 +64,9 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
 * https://github.com/hgmauri/elasticsearch-with-nest
 * https://github.com/phongnguyend/Practical.CleanArchitecture
+* https://github.com/thangchung/clean-code-dotnet
+* https://github.com/Dotnet-Boxed/Templates
+* https://github.com/asadsahi/AspNetCoreSpa
 
 ### Twitter
 * https://twitter.com/hgmauri
@@ -98,6 +105,11 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Luis Dev](https://www.youtube.com/c/luisdev)
 * [Henrique Mauri](https://www.youtube.com/c/HenriqueMauri)
 * [André Secco](https://www.youtube.com/c/AndreSecco)
+* [Full Cycle](https://www.youtube.com/c/FullCycle)
+* [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
+* [Jorge Maia](https://www.youtube.com/c/CanaldoJorgeMaia)
+* [Fabrício Veronez](https://www.youtube.com/c/fabricioveronez)
+* [Coding Night](https://www.youtube.com/c/CodingNight)
 
 ### Telegram
 * https://t.me/arquiteturadotnet
@@ -119,6 +131,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://desenvolvedor.io
 * https://pluralsight.com
 * https://udemy.com
+* https://www.schoolofnet.com
 
 ### Eventos Presenciais
 * https://interopsummit.com.br
@@ -127,3 +140,4 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://qconsp.com
 * https://thedevconf.com
 * https://vssummit.com.br
+* https://cloudconferenceday.com
