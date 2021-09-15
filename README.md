@@ -23,11 +23,11 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Dusted Codes](https://dusted.codes/) - .NET, C# e F#
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - F#
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure e Arquitetura de Software
-* [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
+* [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
-* [Sergey Tihon](https://sergeytihon.com) - F# e .NET
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Sergey Tihon](https://sergeytihon.com) - F# e .NET
 * [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [The Cloud Blog](https://thecloudblog.net) - .NET e Azure
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
@@ -175,5 +175,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://vssummit.com.br
 
 ### Comunidades
-* https://www.reddit.com/r/fsharp/
 * https://discord.gg/R6n7c54
+* https://reddit.com/r/csharp
+* https://reddit.com/r/dotnet
+* https://reddit.com/r/fsharp
