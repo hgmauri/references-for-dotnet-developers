@@ -20,9 +20,13 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
+* [Dusted Codes](https://dusted.codes/) - .NET, C# e F#
+* [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - F#
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure e Arquitetura de Software
 * [Okta Developer](https://developer.okta.com/blog) - .NET e C#
+* [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Sergey Tihon](https://sergeytihon.com) - F# e .NET
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [The Cloud Blog](https://thecloudblog.net) - .NET e Azure
@@ -59,6 +63,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/bregman-arie
 * https://github.com/davidfowl
 * https://github.com/dotnet-architecture
+* https://github.com/fsprojects/awesome-fsharp
 * https://github.com/hgmauri
 * https://github.com/ivanpaulovich
 * https://github.com/jasontaylordev
@@ -101,6 +106,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://twitter.com/okyrylchuk
 * https://twitter.com/renatogroff
 * https://twitter.com/runtimeissues
+* https://twitter.com/sergey_tihon
 * https://twitter.com/shanselman
 
 ### Youtube
@@ -110,6 +116,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Angelo Belchior](https://www.youtube.com/user/angelobelchior)
 * [Azure Brasil](https://www.youtube.com/channel/UCgRzOTVWlyshyIgmxtbYgaQ)
 * [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+* [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
 * [Canal dotNet](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
 * [Coders In Rio](https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw)
 * [Coding Night](https://www.youtube.com/c/CodingNight)
@@ -166,3 +173,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://qconsp.com
 * https://thedevconf.com
 * https://vssummit.com.br
+
+### Comunidades
+* https://www.reddit.com/r/fsharp/
+* https://discord.gg/R6n7c54
