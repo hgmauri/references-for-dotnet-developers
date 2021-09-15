@@ -21,6 +21,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dusted Codes](https://dusted.codes/) - .NET, C# e F#
+* [Enterprise Craftsmanship](https://enterprisecraftsmanship.com/) - .NET, C#, DDD, Testes e boas práticas
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - F#
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure e Arquitetura de Software
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
