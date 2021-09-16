@@ -22,8 +22,11 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dusted Codes](https://dusted.codes/) - .NET, C# e F#
 * [Enterprise Craftsmanship](https://enterprisecraftsmanship.com/) - .NET, C#, DDD, Testes e boas práticas
+* [Exception Not Found](https://www.exceptionnotfound.net/) - .NET e C#
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - F#
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure e Arquitetura de Software
+* [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
+* [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
 * [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
@@ -34,9 +37,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [The Code Blogger](https://thecodeblogger.com) - .NET e Azure
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
-* [Exception Not Found](https://www.exceptionnotfound.net/) - .NET e C#
-* [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
-* [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
 
 ### Blogs em Português
 * http://macoratti.net
@@ -145,6 +145,9 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 * [Tim Corey](https://www.youtube.com/user/IAmTimCorey)
 
+### Whatsapp
+* [.NET Brasil](https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM)
+
 ### Telegram
 * https://t.me/apibuilders
 * https://t.me/arquiteturadotnet
@@ -156,6 +159,10 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://t.me/kubernetesbr
 * https://t.me/microservicesbr
 * https://t.me/redisbrasil
+
+### Telegram Regionais
+* https://t.me/dotnetfortaleza
+* https://t.me/sqlserver_es
 
 ### Cursos Pagos
 * https://academiadotnet.com.br
@@ -184,7 +191,3 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://reddit.com/r/csharp
 * https://reddit.com/r/dotnet
 * https://reddit.com/r/fsharp
-
-### Comunidades Regionais
-* https://t.me/dotnetfortaleza
-* https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM
