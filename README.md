@@ -86,7 +86,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/Dotnet-Boxed/Templates
 * https://github.com/EduardoPires/EquinoxProject
 * https://github.com/hgmauri/elasticsearch-with-nest
-* https://github.com/hgmauri/elasticsearch-with-nest
 * https://github.com/hgmauri/sample-log-monitoring
 * https://github.com/jasontaylordev/CleanArchitecture
 * https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
