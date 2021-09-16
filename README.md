@@ -34,6 +34,9 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [The Code Blogger](https://thecodeblogger.com) - .NET e Azure
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
+* [Exception Not Found](https://www.exceptionnotfound.net/) - .NET e C#
+* [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
+* [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
 
 ### Blogs em Português
 * http://macoratti.net
@@ -181,3 +184,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://reddit.com/r/csharp
 * https://reddit.com/r/dotnet
 * https://reddit.com/r/fsharp
+
+### Comunidades Regionais
+* https://t.me/dotnetfortaleza
+* https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM
