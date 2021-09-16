@@ -78,7 +78,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/rafaelfgx
 * https://github.com/renatogroffe
 
-#### Projetos referências do GitHub
+### Projetos referências do GitHub
 * https://github.com/ardalis/CleanArchitecture
 * https://github.com/asadsahi/AspNetCoreSpa
 * https://github.com/aspnetboilerplate/aspnetboilerplate
