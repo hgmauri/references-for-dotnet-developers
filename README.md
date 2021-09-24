@@ -7,12 +7,12 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
 * [.NET Core Tutorials](https://dotnetcoretutorials.com) - .NET, C#, Azure e Arquitetura de Software
 * [.NET Developer Links](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
-* [Andrew Lock blog](https://andrewlock.net/) - .NET, C#, Azure e Arquitetura de Software
 * [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C# e Novidades Microsoft
 * [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software,
 * [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
+* [Code Maze](https://code-maze.com) - .NET, C# e Exemplos de códigos
 * [Code Project](https://codeproject.com) - .NET, C# e Exemplos de códigos
 * [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure e Arquitetura de Software
 * [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
