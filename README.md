@@ -17,6 +17,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure e Arquitetura de Software
 * [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Daniel Krzyczkowski](https://daniel-krzyczkowski.github.io) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
