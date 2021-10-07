@@ -21,6 +21,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
+* [Dotnet Thoughts](https://dotnetthoughts.net/) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dusted Codes](https://dusted.codes/) - .NET, C# e F#
 * [Enterprise Craftsmanship](https://enterprisecraftsmanship.com/) - .NET, C#, DDD, Testes e boas práticas
 * [Exception Not Found](https://www.exceptionnotfound.net/) - .NET e C#
