@@ -50,6 +50,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://brunobrito.net.br
 * https://carloscds.net
 * https://devmedia.com.br/artigos/dotnet
+* https://dirceuresende.com
 * https://docs.microsoft.com/pt-br/dotnet/core
 * https://docs.microsoft.com/pt-br/learn
 * https://eximiaco.tech/pt/blog
