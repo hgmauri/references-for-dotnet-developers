@@ -128,6 +128,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 * [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
 * [Canal dotNet](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
+* [CodAffection](https://www.youtube.com/c/CodAffection)
 * [Coders In Rio](https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw)
 * [Coding Night](https://www.youtube.com/c/CodingNight)
 * [Coding Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ)
@@ -169,6 +170,11 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://t.me/dotnetfortaleza
 * https://t.me/sqlserver_es
 
+### Discord
+* [F#](https://discord.gg/R6n7c54)
+* [Guia Dev Brasil](https://discord.gg/NbMQUPjHz7)
+* [Programadores BR](https://discord.com/invite/zzdwjYXA)
+
 ### Cursos Pagos
 * https://academiadotnet.com.br
 * https://alura.com.br
@@ -179,6 +185,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://devmedia.com.br
 * https://pluralsight.com
 * https://powertuning.com.br
+* https://rocketseat.com.br
 * https://schoolofnet.com
 * https://udemy.com
 
@@ -192,7 +199,13 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://vssummit.com.br
 
 ### Comunidades
-* https://discord.gg/R6n7c54
 * https://reddit.com/r/csharp
 * https://reddit.com/r/dotnet
 * https://reddit.com/r/fsharp
+
+### Vagas Remotas
+* https://remoteok.io
+* https://hired.com
+* https://bergamot.io
+* https://justremote.co
+* https://workingnomads.co
