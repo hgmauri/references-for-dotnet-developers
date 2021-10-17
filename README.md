@@ -187,6 +187,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://powertuning.com.br
 * https://rocketseat.com.br
 * https://schoolofnet.com
+* https://tutorialspoint.com
 * https://udemy.com
 
 ### Eventos Presenciais
