@@ -3,7 +3,9 @@
 Ao aprender .NET, existem sites referências que é preciso conhecer para ficar sempre atualizado com as melhores práticas e novidades da plataforma. 
 Esta lista será constantemente atualizada, e você também pode contribuir.
 
-### Blogs em Inglês
+:octocat: Me siga: https://github.com/hgmauri
+
+### :open_file_folder: Blogs em Inglês
 * [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
 * [.NET Core Tutorials](https://dotnetcoretutorials.com) - .NET, C#, Azure e Arquitetura de Software
 * [.NET Developer Links](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
@@ -32,6 +34,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
 * [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
+* [Meziantou's Blog](https://www.meziantou.net)
 * [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
@@ -43,7 +46,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
 
-### Blogs em Português
+### :open_file_folder: Blogs em Português
 * http://macoratti.net
 * https://andresecco.com.br
 * https://balta.io/blog
@@ -69,7 +72,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://renatogroffe.medium.com
 * https://tiagotartari.net
 
-### GitHub
+### :open_file_folder: GitHub
 * https://github.com/benaadams
 * https://github.com/bregman-arie
 * https://github.com/davidfowl
@@ -84,7 +87,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/rafaelfgx
 * https://github.com/renatogroffe
 
-### Projetos referências do GitHub
+### :open_file_folder: Projetos referências do GitHub
 * https://github.com/ardalis/CleanArchitecture
 * https://github.com/asadsahi/AspNetCoreSpa
 * https://github.com/aspnetboilerplate/aspnetboilerplate
@@ -100,7 +103,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/thangchung/clean-code-dotnet
 * https://github.com/walter-lopes/Aloha
 
-### Twitter
+### :open_file_folder: Twitter
 * https://twitter.com/ardalis
 * https://twitter.com/badtux_
 * https://twitter.com/csharpcorner
@@ -119,7 +122,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://twitter.com/sergey_tihon
 * https://twitter.com/shanselman
 
-### Youtube
+### :open_file_folder: Youtube
 * [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)
 * [Alexandre Brandão](https://www.youtube.com/c/abrandaol)
 * [André Secco](https://www.youtube.com/c/AndreSecco)
@@ -131,13 +134,13 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [CodAffection](https://www.youtube.com/c/CodAffection)
 * [Coders In Rio](https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw)
 * [Coding Night](https://www.youtube.com/c/CodingNight)
-* [Coding Night](https://www.youtube.com/channel/UCLoVnmvp0fYn-BCK7yKTxUQ)
+* [Daniel Jesus](https://www.youtube.com/c/DanielJesusDotNet)
 * [Desenvolvedor.io](https://www.youtube.com/channel/UCC-i2bS_oH2os9niHX2ApOA)
 * [DevelopersBR](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ)
 * [Dirceu Resende](https://www.youtube.com/channel/UCCVLb9jTx8MlFOUoNrJwHcw)
+* [dotNet](https://www.youtube.com/c/dotNET)
 * [EximiaCo](https://www.youtube.com/channel/UCwX5b4ru7-vkcxrg-3ehbPA)
 * [Fabrício Veronez](https://www.youtube.com/c/fabricioveronez)
-* [Full Cycle](https://www.youtube.com/c/FullCycle)
 * [FullCycle](https://www.youtube.com/c/FullCycle)
 * [Henrique Mauri](https://www.youtube.com/c/HenriqueMauri)
 * [Jorge Maia](https://www.youtube.com/c/CanaldoJorgeMaia)
@@ -145,20 +148,23 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Lambda3](https://www.youtube.com/user/Lambda3TV)
 * [Luis Dev](https://www.youtube.com/c/luisdev)
 * [Luiz Carlos Faria](https://www.youtube.com/user/luizcarlosfaria)
+* [Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)
 * [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
+* [PowerTuning](https://www.youtube.com/c/PowerTuningData)
 * [Ramon Durães](https://www.youtube.com/user/ramonduraes)
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
 * [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 * [Tim Corey](https://www.youtube.com/user/IAmTimCorey)
 
-### Whatsapp
+### :open_file_folder: Whatsapp
 * [.NET Brasil](https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM)
 
-### Telegram
+### :open_file_folder: Telegram
 * https://t.me/apibuilders
 * https://t.me/arquiteturadotnet
 * https://t.me/azurebrasil
 * https://t.me/devstream_publicacoes
+* https://t.me/DesenvolvedoresBrasil
 * https://t.me/dockerbr
 * https://t.me/dotnetbr
 * https://t.me/elasticsearchbrasil
@@ -166,16 +172,16 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://t.me/microservicesbr
 * https://t.me/redisbrasil
 
-### Telegram Regionais
+### :open_file_folder: Telegram Regionais
 * https://t.me/dotnetfortaleza
 * https://t.me/sqlserver_es
 
-### Discord
+### :open_file_folder: Discord
 * [F#](https://discord.gg/R6n7c54)
 * [Guia Dev Brasil](https://discord.gg/NbMQUPjHz7)
 * [Programadores BR](https://discord.com/invite/zzdwjYXA)
 
-### Cursos Pagos
+### :open_file_folder: Cursos Pagos
 * https://academiadotnet.com.br
 * https://alura.com.br
 * https://azureacademy.com.br
@@ -190,7 +196,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://tutorialspoint.com
 * https://udemy.com
 
-### Eventos Presenciais
+### :open_file_folder: Eventos Presenciais
 * https://cloudconferenceday.com
 * https://interopsummit.com.br
 * https://microsoft.com/pt-br/ignite-the-tour
@@ -199,14 +205,31 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://thedevconf.com
 * https://vssummit.com.br
 
-### Comunidades
+### :open_file_folder: Ebooks
+* https://github.com/adamsitnik/awesome-dot-net-performance
+* https://github.com/ajfunelas/eBooks
+* https://github.com/charithmadhuranga/OpenLibrary
+* https://github.com/codereveryday/Programming-Hacking-Resources
+* https://github.com/devharsh/Technical-eBooks
+* https://github.com/dotnet-architecture/eBooks
+* https://github.com/dzfweb/microsoft-microservices-book
+* https://github.com/guardrailsio/awesome-dotnet-security
+* https://github.com/hgmauri/ebooks-microservice-architecture
+* https://github.com/Hack-with-Github/Free-Security-eBooks
+* https://github.com/jmccarrell/ebooks
+* https://github.com/mjebrahimi/Awesome-Microservices-NetCore
+* https://github.com/suraj95/Learning-Resources
+
+### :open_file_folder: Comunidades
 * https://reddit.com/r/csharp
 * https://reddit.com/r/dotnet
 * https://reddit.com/r/fsharp
+* https://reddit.com/r/VisualStudio
 
-### Vagas Remotas
-* https://remoteok.io
-* https://hired.com
+### :open_file_folder: Vagas Remotas
 * https://bergamot.io
+* https://hired.com
 * https://justremote.co
+* https://remoteok.io
 * https://workingnomads.co
+* https://weworkremotely.com
