@@ -19,6 +19,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Code Project](https://codeproject.com) - .NET, C# e Exemplos de códigos
 * [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure e Arquitetura de Software
 * [Code Opinion](https://codeopinion.com) - .NET, C#, Azure e Arquitetura de Software
+* [Conrad Akunga](https://www.conradakunga.com/blog) - .NET, C# e Arquitetura de Software
 * [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Daniel Krzyczkowski](https://daniel-krzyczkowski.github.io) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
