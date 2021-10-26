@@ -234,3 +234,48 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://remoteok.io
 * https://workingnomads.co
 * https://weworkremotely.com
+
+### :open_file_folder: Ferramentas que todo desenvolvedor .NET deve conhecer
+
+- Notepad++
+  - Link: https://notepad-plus-plus.org/downloads
+  - Tipo: Gratuito
+- Resharper
+  - Link: https://www.jetbrains.com/pt-br/resharper
+  - Tipo: Pago ($299,00 por ano)
+- dotPeek
+  - Link: https://www.jetbrains.com/decompiler
+  - Tipo: Gratuito
+- Azure Data Studio
+  - Link: https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio
+  - Tipo: Gratuito
+- Cmder
+  - Link: https://cmder.net
+  - Tipo: Gratuito
+- SonarLint
+  - Link: https://www.sonarlint.org
+  - Tipo: Gratuito
+- Postman
+  - Link: https://www.postman.com/downloads
+  - Tipo: Gratuito
+- K6
+  - Link: https://k6.io/open-source
+  - Tipo: Gratuito
+- Perfview
+  - Link: https://github.com/Microsoft/perfview/releases
+  - Tipo: Gratuito
+- Fiddler
+  - Link: https://www.telerik.com/fiddler/fiddler-classic
+  - Tipo: Gratuito
+- Opserver
+  - Link: https://opserver.github.io/Opserver
+  - Tipo: Gratuito
+- JSONView
+  - Link: https://github.com/gildas-lormeau/JSONView-for-Chrome
+  - Tipo: Gratuito
+
+### :open_file_folder: Sites úteis
+- https://www.4devs.com.br/gerador_de_cpf: Gerador de CPF para teste
+- https://jwt.io: Ferramenta para validar o token JWT
+- https://jsonformatter.curiousconcept.com: Ferramenta para validar e formatar o JSON
+- https://onlinexmltools.com - Ferramenta para validar, formatar e converter objetos para XML
