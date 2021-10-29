@@ -14,7 +14,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software,
 * [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
-* [Carlos Mendible](https://carlos.mendible.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
+* [Carlos Mendible](https://carlos.mendible.com) - .NET, C#, Azure, Artigos e Exemplos de códigos
 * [Code Maze](https://code-maze.com) - .NET, C# e Exemplos de códigos
 * [Code Project](https://codeproject.com) - .NET, C# e Exemplos de códigos
 * [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure e Arquitetura de Software
@@ -46,6 +46,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [The Code Blogger](https://thecodeblogger.com) - .NET e Azure
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
+* [David McCarter - Blog](https://dotnettips.wordpress.com/code-performance/) - Arquitetura de Software,performace de código, .NET e C#
 
 ### :open_file_folder: Blogs em Português
 * http://macoratti.net
