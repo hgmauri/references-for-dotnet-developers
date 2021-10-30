@@ -24,6 +24,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Daniel Krzyczkowski](https://daniel-krzyczkowski.github.io) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [David McCarter](https://dotnettips.wordpress.com/code-performance/) - Arquitetura de Software,performace de código, .NET e C#
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dotnet Thoughts](https://dotnetthoughts.net/) - .NET, C#, Visual Studio e Arquitetura de Software
@@ -46,7 +47,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [The Code Blogger](https://thecodeblogger.com) - .NET e Azure
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
-* [David McCarter - Blog](https://dotnettips.wordpress.com/code-performance/) - Arquitetura de Software,performace de código, .NET e C#
 
 ### :open_file_folder: Blogs em Português
 * http://macoratti.net
