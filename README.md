@@ -34,6 +34,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - F#
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure e Arquitetura de Software
 * [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
+* [Johnny Reilly](https://blog.johnnyreilly.com/) - .NET e C#
 * [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
 * [Meziantou's Blog](https://www.meziantou.net) - .NET, C#, Azure e Arquitetura de Software
