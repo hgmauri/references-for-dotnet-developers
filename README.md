@@ -33,6 +33,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Enterprise Craftsmanship](https://enterprisecraftsmanship.com/) - .NET, C#, DDD, Testes e boas práticas
 * [Exception Not Found](https://www.exceptionnotfound.net/) - .NET e C#
 * [F# for Fun and Profit](https://fsharpforfunandprofit.com/) - F#
+* [Gary Woodfine](https://garywoodfine.com/category/software-development/programming/c) - .NET e C#
 * [Infoq](https://infoq.com/net-core/articles) - .NET, C#, Azure e Arquitetura de Software
 * [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
 * [Johnny Reilly](https://blog.johnnyreilly.com/) - .NET e C#
