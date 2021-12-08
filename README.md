@@ -283,3 +283,4 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - https://jwt.io: Ferramenta para validar o token JWT
 - https://jsonformatter.curiousconcept.com: Ferramenta para validar e formatar o JSON
 - https://onlinexmltools.com - Ferramenta para validar, formatar e converter objetos para XML
+- https://refactoring.guru/pt-br/design-patterns - Padrões de projetos em C#
