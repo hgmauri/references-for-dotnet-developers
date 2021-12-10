@@ -15,6 +15,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
 * [Carlos Mendible](https://carlos.mendible.com) - .NET, C#, Azure, Artigos e Exemplos de códigos
+* [Code4IT](https://www.code4it.dev) - .NET, C# e Exemplos de códigos
 * [Code Maze](https://code-maze.com) - .NET, C# e Exemplos de códigos
 * [Code Project](https://codeproject.com) - .NET, C# e Exemplos de códigos
 * [Code With Mukesh](https://codewithmukesh.com/blog) - .NET, C#, Azure e Arquitetura de Software
