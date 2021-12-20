@@ -12,6 +12,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C# e Novidades Microsoft
 * [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software,
+* [Bas Lijten](https://blog.baslijten.com) - Exemplos código .NET, Templates e C#
 * [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
 * [Carlos Mendible](https://carlos.mendible.com) - .NET, C#, Azure, Artigos e Exemplos de códigos
