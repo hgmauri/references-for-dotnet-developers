@@ -29,6 +29,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [David McCarter](https://dotnettips.wordpress.com/code-performance/) - Arquitetura de Software,performace de código, .NET e C#
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
+* [Dotnetgik](https://dotnetgik.wordpress.com) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dotnet Thoughts](https://dotnetthoughts.net/) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dotnet Tutorials](https://dotnetcoretutorials.com) - NET, C#
 * [Dusted Codes](https://dusted.codes/) - .NET, C# e F#
