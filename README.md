@@ -8,7 +8,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 ### :open_file_folder: Blogs em Inglês
 * [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
 * [.NET Core Tutorials](https://dotnetcoretutorials.com) - .NET, C#, Azure e Arquitetura de Software
-* [.NET Developer Links](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
+* [.NET Developer Links](https://www.dotnetnakama.com) - .NET, C#, Azure e Novidades Microsoft
+* [.NET Nakama](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
 * [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C# e Novidades Microsoft
 * [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software,
