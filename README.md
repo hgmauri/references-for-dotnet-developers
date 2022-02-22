@@ -3,7 +3,9 @@
 Ao aprender .NET, existem sites referências que é preciso conhecer para ficar sempre atualizado com as melhores práticas e novidades da plataforma. 
 Esta lista será constantemente atualizada, e você também pode contribuir.
 
-:octocat: Me siga: https://github.com/hgmauri
+- **Me siga GitHub:** https://github.com/hgmauri
+- **Me siga LinkedIn:** https://linkedin.com/in/hgmauri
+- **Meu blog:** https://henriquemauri.net
 
 ### :open_file_folder: Blogs em Inglês
 * [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
