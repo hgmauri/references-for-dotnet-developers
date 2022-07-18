@@ -14,7 +14,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [.NET Nakama](https://links.danrigby.com) - .NET, C#, Azure e Novidades Microsoft
 * [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C# e Novidades Microsoft
-* [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software,
+* [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software
+* [ASPSNIPPETS](https://www.aspsnippets.com/) - .NET, C# e Visual Studio 
 * [Bas Lijten](https://blog.baslijten.com) - Exemplos código .NET, Templates e C#
 * [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
@@ -34,6 +35,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dotnetgik](https://dotnetgik.wordpress.com) - .NET, C#, Visual Studio e Arquitetura de Software
+* [DotNet Kicks](https://dotnetkicks.com/) - .NET, C# e Visual Studio 
 * [Dotnet Thoughts](https://dotnetthoughts.net/) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dotnet Tutorials](https://dotnetcoretutorials.com) - NET, C#
 * [Dusted Codes](https://dusted.codes/) - .NET, C# e F#
@@ -51,6 +53,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [No Dogma Blog](https://nodogmablog.bryanhogan.net/) - .NET, C#, Azure e Arquitetura de Software
 * [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [RoundTheCode](https://www.roundthecode.com) - .NET, C# e Visual Studio 
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Sergey Tihon](https://sergeytihon.com) - F# e .NET
 * [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
