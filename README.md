@@ -1,6 +1,5 @@
 # Referências para desenvolvedores .NET
 
-Ao aprender .NET, existem sites referências que é preciso conhecer para ficar sempre atualizado com as melhores práticas e novidades da plataforma. 
 Esta lista será constantemente atualizada, e você também pode contribuir.
 
 - **Me siga no GitHub:** https://github.com/hgmauri
