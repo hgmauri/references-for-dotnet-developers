@@ -46,6 +46,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
 * [Johnny Reilly](https://blog.johnnyreilly.com/) - .NET e C#
 * [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
+* [Mario Mucalo's Blog](https://mariomucalo.com/) - .NET, C#, Azure e Arquitetura de Software
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
 * [Meziantou's Blog](https://www.meziantou.net) - .NET, C#, Azure e Arquitetura de Software
 * [Michael's Coding](https://michaelscodingspot.com) - .NET, C#, Azure e Arquitetura de Software
@@ -105,6 +106,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/renatogroffe
 
 ### :open_file_folder: Projetos referências do GitHub
+* https://github.com/alirizaadiyahsi/Nucleus
 * https://github.com/ardalis/CleanArchitecture
 * https://github.com/asadsahi/AspNetCoreSpa
 * https://github.com/aspnetboilerplate/aspnetboilerplate
@@ -117,16 +119,23 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/kgrzybek/sample-dotnet-core-cqrs-api
 * https://github.com/phongnguyend/Practical.CleanArchitecture
 * https://github.com/rafaelfgx/Architecture
+* https://github.com/serenity-is/Serenity
+* https://github.com/ServiceStack/ServiceStack
+* https://github.com/SolutionsDesign/Algorithmia
 * https://github.com/thangchung/clean-code-dotnet
 * https://github.com/walter-lopes/Aloha
 
 ### :open_file_folder: Twitter
 * https://twitter.com/ardalis
 * https://twitter.com/badtux_
+* https://twitter.com/balta_io
+* https://twitter.com/buhakmeh
 * https://twitter.com/csharpcorner
 * https://twitter.com/davidfowl
+* https://twitter.com/dotnet
 * https://twitter.com/eximiaco
 * https://twitter.com/fabiohara
+* https://twitter.com/giovannibassi
 * https://twitter.com/hgmauri
 * https://twitter.com/JamesNK
 * https://twitter.com/jongalloway
