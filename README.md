@@ -29,6 +29,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Daniel Krzyczkowski](https://daniel-krzyczkowski.github.io) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Dave Murray](https://blog.taranissoftware.com/) - .NET, C#, Azure, Arquitetura de Software 
 * [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [David McCarter](https://dotnettips.wordpress.com/code-performance/) - Arquitetura de Software,performace de código, .NET e C#
 * [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
