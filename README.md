@@ -78,11 +78,11 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://eximiaco.tech/pt/blog
 * https://fullcycle.com.br
 * https://gago.io/dotnet
+* https://gbbigardi.medium.com/
 * https://henriquemauri.net
 * https://imasters.com.br/dotnet
 * https://luisdev.com.br
 * https://medium.com/@alexandre.malavasi
-* https://medium.com/@gbbigardi
 * https://medium.com/@luisdeolme
 * https://medium.com/@marraia
 * https://rafaelcruz.azurewebsites.net
@@ -98,6 +98,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/davidfowl
 * https://github.com/dotnet-architecture
 * https://github.com/fsprojects/awesome-fsharp
+* https://github.com/gbbigardi
 * https://github.com/hgmauri
 * https://github.com/ivanpaulovich
 * https://github.com/jasontaylordev
@@ -138,6 +139,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://twitter.com/dotnet
 * https://twitter.com/eximiaco
 * https://twitter.com/fabiohara
+* https://twitter.com/gbbigardi
 * https://twitter.com/giovannibassi
 * https://twitter.com/hgmauri
 * https://twitter.com/JamesNK
