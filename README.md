@@ -78,7 +78,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://eximiaco.tech/pt/blog
 * https://fullcycle.com.br
 * https://gago.io/dotnet
-* https://gbbigardi.medium.com/
+* https://gbbigardi.medium.com
 * https://henriquemauri.net
 * https://imasters.com.br/dotnet
 * https://luisdev.com.br
