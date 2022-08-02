@@ -133,6 +133,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://twitter.com/buhakmeh
 * https://twitter.com/csharpcorner
 * https://twitter.com/davidfowl
+* https://twitter.com/dirceuresende
 * https://twitter.com/dotnet
 * https://twitter.com/eximiaco
 * https://twitter.com/fabiohara
