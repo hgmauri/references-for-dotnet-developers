@@ -89,6 +89,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://rafaeldossantos.net
 * https://ralms.net
 * https://renatogroffe.medium.com
+* https://tallesvaliatti.com
 * https://tiagotartari.net
 
 ### :open_file_folder: GitHub
