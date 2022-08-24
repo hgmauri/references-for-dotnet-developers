@@ -52,6 +52,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Meziantou's Blog](https://www.meziantou.net) - .NET, C#, Azure e Arquitetura de Software
 * [Michael's Coding](https://michaelscodingspot.com) - .NET, C#, Azure e Arquitetura de Software
 * [Muhammad Rehan Saeed](https://rehansaeed.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Nikiforovall Blog](https://nikiforovall.github.io/) - .NET, C#, Azure e Arquitetura de Software
 * [No Dogma Blog](https://nodogmablog.bryanhogan.net/) - .NET, C#, Azure e Arquitetura de Software
 * [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
