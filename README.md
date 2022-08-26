@@ -14,6 +14,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Andrew Lock](https://andrewlock.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C# e Novidades Microsoft
 * [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software
+* [ASP.NET Hacker](https://asp.net-hacker.rocks/) - .NET, C# e Visual Studio 
 * [ASPSNIPPETS](https://www.aspsnippets.com/) - .NET, C# e Visual Studio 
 * [Bas Lijten](https://blog.baslijten.com) - Exemplos código .NET, Templates e C#
 * [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
