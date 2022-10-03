@@ -164,6 +164,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Azure Brasil](https://www.youtube.com/channel/UCgRzOTVWlyshyIgmxtbYgaQ)
 * [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 * [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
+* [Code FC](https://www.youtube.com/c/CodeFC)
 * [Canal da Cloud](https://www.youtube.com/c/CanaldaCloud)
 * [Canal dotNet](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
 * [CodAffection](https://www.youtube.com/c/CodAffection)
