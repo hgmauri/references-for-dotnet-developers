@@ -133,7 +133,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 
 ### :open_file_folder: Twitter
 * https://twitter.com/ardalis
-* https://twitter.com/badtux_
+* [https://twitter.com/badtux_](https://twitter.com/badtux_)
 * https://twitter.com/balta_io
 * https://twitter.com/buhakmeh
 * https://twitter.com/csharpcorner
