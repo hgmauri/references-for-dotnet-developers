@@ -169,6 +169,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Canal dotNet](https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg)
 * [CodAffection](https://www.youtube.com/c/CodAffection)
 * [Coders In Rio](https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw)
+* [Codewrinkles](https://www.youtube.com/@Codewrinkles)
 * [Coding Night](https://www.youtube.com/c/CodingNight)
 * [Daniel Jesus](https://www.youtube.com/c/DanielJesusDotNet)
 * [Desenvolvedor.io](https://www.youtube.com/channel/UCC-i2bS_oH2os9niHX2ApOA)
