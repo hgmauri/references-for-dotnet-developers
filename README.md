@@ -316,3 +316,10 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - https://jsonformatter.curiousconcept.com: Ferramenta para validar e formatar o JSON
 - https://onlinexmltools.com - Ferramenta para validar, formatar e converter objetos para XML
 - https://www.dofactory.com - Design Patterns, Code Standard e Exemplos de código
+- https://github.com/quozd/awesome-dotnet - Estudos de algoritmos
+
+### :open_file_folder: APIs
+- https://github.com/TelegramBots/Telegram.Bot
+- https://github.com/sochix/TLSharp
+- https://dotnet.microsoft.com/pt-br/apps/aspnet/apis
+- https://breeze.github.io/doc-net
