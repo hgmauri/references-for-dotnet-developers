@@ -161,6 +161,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 ### :open_file_folder: Youtube
 * [.NET Foundation](https://www.youtube.com/channel/UCiaZbznpWV1o-KLxj8zqR6A)
 * [Alexandre Brandão](https://www.youtube.com/c/abrandaol)
+* [Andre Okazaki](https://www.youtube.com/c/OkazakiAndre)
 * [André Secco](https://www.youtube.com/c/AndreSecco)
 * [Angelo Belchior](https://www.youtube.com/user/angelobelchior)
 * [Azure Brasil](https://www.youtube.com/channel/UCgRzOTVWlyshyIgmxtbYgaQ)
