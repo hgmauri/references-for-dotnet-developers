@@ -324,4 +324,3 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - https://github.com/sochix/TLSharp
 - https://dotnet.microsoft.com/pt-br/apps/aspnet/apis
 - https://breeze.github.io/doc-net
-
