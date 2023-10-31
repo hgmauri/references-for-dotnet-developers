@@ -68,6 +68,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [The Code Blogger](https://thecodeblogger.com) - .NET e Azure
 * [The Morning Brew](https://blog.cwa.me.uk) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Thomas Levesque's .NET Blog](https://thomaslevesque.com) - .NET e C#
+* [We are .Net](https://www.wearedotnet.io) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 
 ### :open_file_folder: Blogs em Português
 * http://macoratti.net
