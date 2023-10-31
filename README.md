@@ -190,6 +190,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)
 * [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
 * [PowerTuning](https://www.youtube.com/c/PowerTuningData)
+* [Raw Coding](https://www.youtube.com/@RawCoding)
 * [Ramon Durães](https://www.youtube.com/user/ramonduraes)
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
 * [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
