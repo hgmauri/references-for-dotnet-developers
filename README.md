@@ -288,7 +288,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
   - Link: https://docs.microsoft.com/pt-br/sql/azure-data-studio/download-azure-data-studio
   - Tipo: Gratuito
 - Cmder
-  - Link: https://cmder.net
+  - Link: https://cmder.app
   - Tipo: Gratuito
 - SonarLint
   - Link: https://www.sonarlint.org
