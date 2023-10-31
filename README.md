@@ -198,6 +198,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
 * [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 * [Tim Corey](https://www.youtube.com/user/IAmTimCorey)
+* [Daniel Jesus](https://www.youtube.com/@DanielJesusNet)
 
 ### :open_file_folder: Whatsapp
 * [.NET Brasil](https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM)
