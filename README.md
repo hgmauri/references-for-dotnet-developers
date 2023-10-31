@@ -241,6 +241,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://qconsp.com
 * https://thedevconf.com
 * https://vssummit.com.br
+* https://vtexday.com.br
 
 ### :open_file_folder: Ebooks
 * https://github.com/adamsitnik/awesome-dot-net-performance
