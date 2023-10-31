@@ -62,6 +62,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Sergey Tihon](https://sergeytihon.com) - F# e .NET
 * [Swimburger .NET Blog](https://swimburger.net/blog) - .NET, C# e Arquitetura de Software
+* [Steven Giesel](https://steven-giesel.com) - .NET, C#, Blazor, Arquitetura de Software e Novidades Microsoft
 * [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Programming With Wolfgang](https://www.programmingwithwolfgang.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [The Cloud Blog](https://thecloudblog.net) - .NET e Azure
