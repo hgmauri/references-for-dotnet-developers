@@ -325,6 +325,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - https://onlinexmltools.com - Ferramenta para validar, formatar e converter objetos para XML
 - https://www.dofactory.com - Design Patterns, Code Standard e Exemplos de código
 - https://github.com/quozd/awesome-dotnet - Estudos de algoritmos
+- https://rapidapi.com/hub - Lista de APIs para realização de testes
 
 ### :open_file_folder: APIs
 - https://github.com/TelegramBots/Telegram.Bot
