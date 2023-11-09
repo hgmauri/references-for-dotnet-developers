@@ -92,6 +92,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://medium.com/@alexandre.malavasi
 * https://medium.com/@luisdeolme
 * https://medium.com/@marraia
+* https://marcionizzola.medium.com
 * https://rafaelcruz.azurewebsites.net
 * https://rafaeldossantos.net
 * https://ralms.net
@@ -111,6 +112,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://github.com/jasontaylordev
 * https://github.com/jbogard
 * https://github.com/JeremyLikness
+* https://github.com/nizzola  
 * https://github.com/KevinDockx
 * https://github.com/rafaelfgx
 * https://github.com/renatogroffe
