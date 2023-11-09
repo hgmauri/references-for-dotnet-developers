@@ -92,7 +92,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://medium.com/@alexandre.malavasi
 * https://medium.com/@luisdeolme
 * https://medium.com/@marraia
-* https://marcionizzola.medium.com/
+* https://marcionizzola.medium.com
 * https://rafaelcruz.azurewebsites.net
 * https://rafaeldossantos.net
 * https://ralms.net
