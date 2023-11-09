@@ -82,7 +82,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://dirceuresende.com
 * https://docs.microsoft.com/pt-br/dotnet/core
 * https://docs.microsoft.com/pt-br/learn
-* https://eximiaco.tech/pt/blog
+* https://arquiteturadesoftware.online/
+* https://arquiteturadesoftware.online/podcast/
 * https://fullcycle.com.br
 * https://gago.io/dotnet
 * https://gbbigardi.medium.com
