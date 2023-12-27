@@ -5,6 +5,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - **Me siga no GitHub:** https://github.com/hgmauri
 - **Me siga no LinkedIn:** https://linkedin.com/in/hgmauri
 - **Meu blog:** https://henriquemauri.net
+- **Consultoria:** https://dotcode.com.br
 
 ### :open_file_folder: Blogs em Inglês
 * [.NET Blog](https://devblogs.microsoft.com/dotnet) - .NET, C#, Azure e Novidades Microsoft
