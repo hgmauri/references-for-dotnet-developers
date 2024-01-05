@@ -180,6 +180,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Coders In Rio](https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw)
 * [Codewrinkles](https://www.youtube.com/@Codewrinkles)
 * [Coding Night](https://www.youtube.com/c/CodingNight)
+* [Cristiano Cunha](http://www.youtube.com/c/CristianoRaffiCunha)
 * [Daniel Jesus](https://www.youtube.com/c/DanielJesusDotNet)
 * [Desenvolvedor.io](https://www.youtube.com/channel/UCC-i2bS_oH2os9niHX2ApOA)
 * [DevelopersBR](https://www.youtube.com/channel/UCGhSrtP0-1qq0XPbnMpi2kQ)
