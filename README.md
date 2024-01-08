@@ -207,6 +207,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 
 ### :open_file_folder: Whatsapp
 * [.NET Brasil](https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM)
+* [Comunidade Ecossistema.NET](https://chat.whatsapp.com/KuHvBgcmkVA4wxEdm2fFmk)
 
 ### :open_file_folder: Telegram
 * https://t.me/apibuilders
