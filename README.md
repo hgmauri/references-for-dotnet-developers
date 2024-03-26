@@ -4,6 +4,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 
 - **Me siga no GitHub:** https://github.com/hgmauri
 - **Me siga no LinkedIn:** https://linkedin.com/in/hgmauri
+- **Me siga no Twitter:** https://twitter.com/hgmauri
 - **Meu blog:** https://henriquemauri.net
 - **Consultoria:** https://dotcode.com.br
 
