@@ -55,6 +55,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
 * [Meziantou's Blog](https://www.meziantou.net) - .NET, C#, Azure e Arquitetura de Software
 * [Michael's Coding](https://michaelscodingspot.com) - .NET, C#, Azure e Arquitetura de Software
+* [Milan Jovanovic](https://www.milanjovanovic.tech/blog) - .NET, C# e Arquitetura de Software
 * [Muhammad Rehan Saeed](https://rehansaeed.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Nikiforovall Blog](https://nikiforovall.github.io) - .NET, C#, Azure e Arquitetura de Software
 * [No Dogma Blog](https://nodogmablog.bryanhogan.net) - .NET, C#, Azure e Arquitetura de Software
