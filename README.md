@@ -182,6 +182,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Coders In Rio](https://www.youtube.com/channel/UC65S8lTO_ajBIAwK7ZEraAw)
 * [Codewrinkles](https://www.youtube.com/@Codewrinkles)
 * [Coding Night](https://www.youtube.com/c/CodingNight)
+* [Cristian William Dev](https://www.youtube.com/@cristianwilliamdev)
 * [Cristiano Cunha](http://www.youtube.com/c/CristianoRaffiCunha)
 * [Daniel Jesus](https://www.youtube.com/@DanielJesusNet)
 * [Desenvolvedor.io](https://www.youtube.com/channel/UCC-i2bS_oH2os9niHX2ApOA)
@@ -205,7 +206,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
 * [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 * [Tim Corey](https://www.youtube.com/user/IAmTimCorey)
-* [Cristian William Dev](https://www.youtube.com/@cristianwilliamdev)
 
 ### :open_file_folder: Whatsapp
 * [.NET Brasil](https://chat.whatsapp.com/CusYUzlD6pKG2jfrk0u3DM)
