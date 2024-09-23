@@ -18,7 +18,8 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Anthony Giretti's](https://anthonygiretti.com) - .NET, C# e Novidades Microsoft
 * [Ardalis blog](https://ardalis.com/blog) - .NET, C#, DDD e Arquitetura de Software
 * [ASP.NET Hacker](https://asp.net-hacker.rocks/) - .NET, C# e Visual Studio 
-* [ASPSNIPPETS](https://www.aspsnippets.com/) - .NET, C# e Visual Studio 
+* [ASPSNIPPETS](https://www.aspsnippets.com/) - .NET, C# e Visual Studio
+* [Aka Ayende Rahien](https://ayende.com/blog) - .NET, C# e RavenDB
 * [Bas Lijten](https://blog.baslijten.com) - Exemplos código .NET, Templates e C#
 * [Builtwithdot.Net](https://builtwithdot.net) - Exemplos código .NET, Templates e C#
 * [C# Corner](https://www.c-sharpcorner.com) - .NET, C#, Azure, Artigos e Exeplos de códigos
