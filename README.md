@@ -37,7 +37,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Dave Murray](https://blog.taranissoftware.com/) - .NET, C#, Azure, Arquitetura de Software 
 * [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [David McCarter](https://dotnettips.wordpress.com/code-performance/) - Arquitetura de Software,performace de código, .NET e C#
-* [Discover .NET](https://discoverdot.net) - .NET, C#, Azure e Novidades Microsoft
 * [Dotnet Curry](https://dotnetcurry.com) - .NET, C#, Visual Studio e Arquitetura de Software
 * [Dotnetgik](https://dotnetgik.wordpress.com) - .NET, C#, Visual Studio e Arquitetura de Software
 * [DotNet Kicks](https://dotnetkicks.com/) - .NET, C# e Visual Studio 
@@ -52,7 +51,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Jimmy Bogard](https://jimmybogard.com/) - .NET e C#
 * [Johnny Reilly](https://blog.johnnyreilly.com/) - .NET e C#
 * [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
-* [Mario Mucalo's Blog](https://mariomucalo.com/) - .NET, C#, Azure e Arquitetura de Software
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
 * [Meziantou's Blog](https://www.meziantou.net) - .NET, C#, Azure e Arquitetura de Software
 * [Michael's Coding](https://michaelscodingspot.com) - .NET, C#, Azure e Arquitetura de Software
@@ -60,7 +58,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Muhammad Rehan Saeed](https://rehansaeed.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Nikiforovall Blog](https://nikiforovall.github.io) - .NET, C#, Azure e Arquitetura de Software
 * [No Dogma Blog](https://nodogmablog.bryanhogan.net) - .NET, C#, Azure e Arquitetura de Software
-* [Okta Developer](https://developer.okta.com/blog) - .NET e C#
 * [Rick Strahl's Weblog](https://weblog.west-wind.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [RoundTheCode](https://www.roundthecode.com) - .NET, C# e Visual Studio 
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
