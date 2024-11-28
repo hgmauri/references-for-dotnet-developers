@@ -213,7 +213,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 ### :open_file_folder: Telegram
 * https://t.me/apibuilders
 * https://t.me/arquiteturadotnet
-* https://t.me/azurebrasil
 * https://t.me/devstream_publicacoes
 * https://t.me/DesenvolvedoresBrasil
 * https://t.me/dockerbr
@@ -238,14 +237,16 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://azureacademy.com.br
 * https://azurenapratica.com
 * https://balta.io
+* https://betrybe.com
 * https://desenvolvedor.io
 * https://devmedia.com.br
 * https://pluralsight.com
-* https://powertuning.com.br
 * https://rocketseat.com.br
 * https://schoolofnet.com
+* https://treinaweb.com.br
 * https://tutorialspoint.com
 * https://udemy.com
+* https://kasolution.com.br
 
 ### :open_file_folder: Eventos Presenciais
 * https://cloudconferenceday.com
