@@ -34,6 +34,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Daily .NET Tips](https://dailydotnettips.com) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Damien](https://damienbod.com/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Daniel Krzyczkowski](https://daniel-krzyczkowski.github.io) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
+* [Dave Callan](https://davecallan.com/) - .NET, C#, Azure, Arquitetura de Software 
 * [Dave Murray](https://blog.taranissoftware.com/) - .NET, C#, Azure, Arquitetura de Software 
 * [David Guida](https://www.davidguida.net/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [David McCarter](https://dotnettips.wordpress.com/code-performance/) - Arquitetura de Software,performace de código, .NET e C#
@@ -52,6 +53,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Johnny Reilly](https://blog.johnnyreilly.com/) - .NET e C#
 * [Khalid Abuhakmeh](https://khalidabuhakmeh.com/) - .NET e C#
 * [Mark Seemann](https://blog.ploeh.dk/) - .NET, F#, e TDD
+* [MethodPoet](https://methodpoet.com/)) - .NET, C#
 * [Meziantou's Blog](https://www.meziantou.net) - .NET, C#, Azure e Arquitetura de Software
 * [Michael's Coding](https://michaelscodingspot.com) - .NET, C#, Azure e Arquitetura de Software
 * [Milan Jovanovic](https://www.milanjovanovic.tech/blog) - .NET, C# e Arquitetura de Software
@@ -62,6 +64,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [RoundTheCode](https://www.roundthecode.com) - .NET, C# e Visual Studio 
 * [Scott Hanselman](https://www.hanselman.com/blog)- .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
 * [Sergey Tihon](https://sergeytihon.com) - F# e .NET
+* [Scott Brady]([https://www.scottbrady91.com/articles]) - .NET
 * [Swimburger .NET Blog](https://swimburger.net/blog) - .NET, C# e Arquitetura de Software
 * [Steven Giesel](https://steven-giesel.com) - .NET, C#, Blazor, Arquitetura de Software e Novidades Microsoft
 * [Steve Gordon](https://www.stevejgordon.co.uk/) - .NET, C#, Azure, Arquitetura de Software e Novidades Microsoft
@@ -170,7 +173,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Andre Okazaki](https://www.youtube.com/c/OkazakiAndre)
 * [André Secco](https://www.youtube.com/c/AndreSecco)
 * [Angelo Belchior](https://www.youtube.com/user/angelobelchior)
-* [Azure Brasil](https://www.youtube.com/channel/UCgRzOTVWlyshyIgmxtbYgaQ)
 * [Balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 * [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A)
 * [Code FC](https://www.youtube.com/c/CodeFC)
@@ -198,7 +200,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * [Luiz Carlos Faria](https://www.youtube.com/user/luizcarlosfaria)
 * [Macoratti](https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw)
 * [Nick Chapsas](https://www.youtube.com/user/ElfocrashDev)
-* [PowerTuning](https://www.youtube.com/c/PowerTuningData)
 * [Raw Coding](https://www.youtube.com/@RawCoding)
 * [Ramon Durães](https://www.youtube.com/user/ramonduraes)
 * [Ray Carneiro](https://www.youtube.com/channel/UCKxcWRgbLoPTJXcTxMYoHFA)
