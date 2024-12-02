@@ -78,7 +78,6 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 ### :open_file_folder: Blogs em Português
 * http://macoratti.net
 * https://andresecco.com.br
-* https://azurebrasil.cloud
 * https://balta.io/blog
 * https://brunobrito.net.br
 * https://carloscds.net
@@ -98,11 +97,13 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 * https://medium.com/@luisdeolme
 * https://medium.com/@marraia
 * https://marcionizzola.medium.com
+* https://olhardigital.com.br
 * https://rafaelcruz.azurewebsites.net
 * https://rafaeldossantos.net
 * https://ralms.net
 * https://renatogroffe.medium.com
 * https://tallesvaliatti.com
+* https://www.techtudo.com.br
 * https://tiagotartari.net
 
 ### :open_file_folder: GitHub
