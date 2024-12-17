@@ -326,6 +326,9 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - JSONView
   - Link: https://github.com/gildas-lormeau/JSONView-for-Chrome
   - Tipo: Gratuito
+- IT Tools
+  - Link: https://it-tools.tech
+  - Tipo: Gratuito
 
 ### :open_file_folder: Sites úteis
 - https://www.4devs.com.br/gerador_de_cpf: Gerador de CPF para teste
