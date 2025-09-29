@@ -338,6 +338,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - https://www.dofactory.com - Design Patterns, Code Standard e Exemplos de código
 - https://github.com/quozd/awesome-dotnet - Estudos de algoritmos
 - https://rapidapi.com/hub - Lista de APIs para realização de testes
+- https://goonlinetools.com/pt - Seu online Toolkit
 
 ### :open_file_folder: APIs
 - https://github.com/TelegramBots/Telegram.Bot
