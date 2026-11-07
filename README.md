@@ -334,6 +334,7 @@ Esta lista será constantemente atualizada, e você também pode contribuir.
 - https://www.4devs.com.br/gerador_de_cpf: Gerador de CPF para teste
 - https://jwt.io: Ferramenta para validar o token JWT
 - https://jsonformatter.curiousconcept.com: Ferramenta para validar e formatar o JSON
+- https://bestjson.com/ - Ferramentas gratuitas para formatar, validar e comparar JSON no navegador, sem enviar os dados de entrada a um servidor de conversão.
 - https://onlinexmltools.com - Ferramenta para validar, formatar e converter objetos para XML
 - https://www.dofactory.com - Design Patterns, Code Standard e Exemplos de código
 - https://github.com/quozd/awesome-dotnet - Estudos de algoritmos
